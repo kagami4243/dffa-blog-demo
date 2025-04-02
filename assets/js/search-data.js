@@ -3,13 +3,24 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-",
+    title: "",
     section: "Navigation",
     handler: () => {
       window.location.href = "/dffa-blog-demo/";
     },
-  },{id: "post-a-post-with-plotly-js",
+  },{id: "post-a-dffa-blog-demo",
+        
+          title: "a dffa blog demo",
+        
+        description: "an example of a distill-style blog post and main elements",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/dffa-blog-demo/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -303,7 +314,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/dffa-blog-demo/";
+            window.location.href = "/dffa-blog-demo/blog/2021/distill/";
           
         },
       },{id: "post-a-post-with-twitter",
