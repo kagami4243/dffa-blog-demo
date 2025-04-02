@@ -1,11 +1,12 @@
 ---
-layout: distill
+layout: post
 title: a dffa blog demo
 permalink: /
 description: an example of a distill-style blog post and main elements
 tags: distill formatting
 date: 2025-04-02
 featured: true
+giscus_comments: true
 pretty_table: true
 pseudocode: true
 tabs: true
