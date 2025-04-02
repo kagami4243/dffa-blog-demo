@@ -80,7 +80,8 @@ _styles: >
 
 ---
 
-## Abstract 
+## Abstract
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/9.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -92,10 +93,11 @@ _styles: >
 <div class="caption">
     A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
 </div>
+
 Abstract Abstract Abstract Abstract Abstract Abstract Abstract Abstract Abstract Abstract 
 
+## Introduction
 
-## Introduction 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
@@ -107,12 +109,14 @@ Abstract Abstract Abstract Abstract Abstract Abstract Abstract Abstract Abstract
 <div class="caption">
     A simple, elegant caption looks good between video rows, after each row, or doesn't have to be there at all.
 </div>
+
 Introduction Introduction Introduction Introduction Introduction Introduction Introduction Introduction 
 
-## Related Work 
+## Related Work
+
 Related WorkRelated WorkRelated WorkRelated WorkRelated WorkRelated WorkRelated WorkRelated Work
 
-## Method 
+## Method
 
 $$
 E=mc^2
@@ -120,7 +124,7 @@ $$
 
 Method Method Method Method Method Method Method Method Method Method 
 
-## Experiment 
+## Experiment
 
 {% tabs something-else %}
 
@@ -156,9 +160,11 @@ Hipster list
 | Left 3       |    center 3    |       right 3 |
 
 <p></p>
+
 Experiment Experiment Experiment Experiment Experiment Experiment Experiment Experiment 
 
-## Discussion 
+## Discussion
+
 ```c++
 int main(int argc, char const \*argv[])
 {
@@ -178,9 +184,11 @@ int main(int argc, char const \*argv[])
     return 0;
 }
 ```
+
 Discussion Discussion Discussion Discussion Discussion Discussion Discussion Discussion 
 
-## Reference 
+## Reference
+
 Citations are then used in the article body with the `<d-cite>` tag.
 The key attribute is a reference to the id provided in the bibliography.
 The key attribute can take multiple ids, separated by commas.
@@ -191,7 +199,7 @@ If you have an appendix, a bibliography is automatically created and populated i
 Distill chose a numerical inline citation style to improve readability of citation dense articles and because many of the benefits of longer citations are obviated by displaying more information on hover.
 However, we consider it good style to mention author last names if you discuss something at length and it fits into the flow well — the authors are human and it’s nice for them to have the community associate them with their work.
 
-## Appendix 
+## Appendix
 
 ```pseudocode
 % This quicksort algorithm is extracted from Chapter 7, Introduction to Algorithms (3rd edition)
@@ -221,4 +229,4 @@ However, we consider it good style to mention author last names if you discuss s
 \end{algorithm}
 ```
 
-Appendix Appendix Appendix Appendix Appendix Appendix Appendix Appendix Appendix Appendix 
+Appendix Appendix Appendix Appendix Appendix Appendix Appendix Appendix Appendix Appendix
