@@ -5,7 +5,6 @@ permalink: /
 description: an example of a distill-style blog post and main elements
 date: 2025-04-02
 featured: true
-giscus_comments: true
 pretty_table: true
 tabs: true
 mermaid:
