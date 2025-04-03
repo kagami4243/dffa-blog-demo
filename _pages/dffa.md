@@ -1,6 +1,8 @@
 ---
 layout: distill
 title: a dffa blog demo
+permalink: /
+title: dffa
 description: an example of a distill-style blog post and main elements
 date: 2025-04-02
 featured: true
