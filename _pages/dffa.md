@@ -117,7 +117,7 @@ $$
 E=mc^2
 $$
 
-Method Method Method Method Method Method Method Method Method Method
+Method Method Method Method Method Method Method Method Method $$E=mc^2$$ Method
 
 ## Experiment
 
