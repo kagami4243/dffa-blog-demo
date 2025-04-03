@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-",
-    title: "",
+    id: "nav-dffa",
+    title: "dffa",
     section: "Navigation",
     handler: () => {
       window.location.href = "/dffa-blog-demo/";
@@ -17,7 +17,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/dffa-blog-demo/";
+            window.location.href = "/dffa-blog-demo/blog/2025/dffa-blog-demo/";
           
         },
       },{id: "post-a-post-with-plotly-js",
